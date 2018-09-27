@@ -20,12 +20,19 @@ eight queens problem. Otherwise, print 'invalid'.
 
 SAMPLE INPUT:
 *.......
+
 ..*.....
+
 ....*...
+
 ......*.
+
 .*......
+
 .......*
+
 .....*..
+
 ...*....
 
 SAMPLE OUTPUT:
@@ -33,12 +40,19 @@ invalid
 
 SAMPLE INPUT:
 *.......
+
 ......*.
+
 ....*...
+
 .......*
+
 .*......
+
 ...*....
+
 .....*..
+
 *..*.....
 
 SAMPLE OUTPUT:
