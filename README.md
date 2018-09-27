@@ -19,6 +19,7 @@ Print a single line of output. Print the word 'valid' if the given chess board i
 eight queens problem. Otherwise, print 'invalid'. 
 
 SAMPLE INPUT:
+
 *.......
 
 ..*.....
@@ -39,6 +40,7 @@ SAMPLE OUTPUT:
 invalid
 
 SAMPLE INPUT:
+
 *.......
 
 ......*.
