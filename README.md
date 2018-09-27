@@ -18,32 +18,5 @@ OUTPUT
 Print a single line of output. Print the word 'valid' if the given chess board is a valid solution to the 
 eight queens problem. Otherwise, print 'invalid'. 
 
-SAMPLE INPUT:
 
-*.......  
-..*.....  
-....*...  
-......*.  
-.*......  
-.......*  
-.....*..  
-...*....
-
-SAMPLE OUTPUT:
-invalid
-
-SAMPLE INPUT:
-
-*.......  
-......*.  
-....*...  
-.......*  
-.*......  
-...*....  
-.....*..  
-*..*.....
-
-SAMPLE OUTPUT:
-valid"
-
-(Source: https://open.kattis.com/problems/8queens)
+(Find sample input and sample output in Source: https://open.kattis.com/problems/8queens)
