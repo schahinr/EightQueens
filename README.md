@@ -1,9 +1,9 @@
 # EightQueens
 In the eight queens puzzle, eight queens must be placed on a standard 8×8 chess board so 
-that no  *queen can attack another. The center figure below shows an invalid solution; 
-two queens can attack *each other diagonally. The figure on the right shows a valid solution. 
-Given a description of a  *chess board, your job is to determine whether or not it represents 
-a valid solution to the eight  *queens puzzle.
+that no queen can attack another.  
+
+Given a description of a chess board, your job is to determine whether or not it represents 
+a valid solution to the eight queens puzzle.
 
 Problem description can be found at: https://open.kattis.com/problems/8queens
 
