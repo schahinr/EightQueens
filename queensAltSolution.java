@@ -8,8 +8,6 @@
  * 
  */
 
-package queens;
-
 import java.util.*;
 
 public class queensAltSolution {
